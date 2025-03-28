@@ -1,7 +1,7 @@
 # SpringBootVueSecondShop
 基于java SpringBoot和Vue校园二手交易商城
 
-演示视频链接：https://live.csdn.net/v/312382
+演示视频链接：https://www.bilibili.com/video/BV1cV4y187ph/
 
 详询 微信1：egvh56ufy7hh ，微信2：dabocode  。承接商业项目、课设、毕设和论文，包括但不限于Web、APP、小程序等，课设、毕设提供远程部署和不限次数代码解答！
 
